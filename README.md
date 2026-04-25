@@ -177,13 +177,7 @@ src/routes/AppRouter.jsx  (lazy-loaded + PrivateRoute — available)
 ![structure](images/structure.png)
 
 ---
-
-## Resources
-
-- 📄 **[👉 Click here to view the complete project documentation](https://docs.google.com/document/d/1JyTlFx4TZ9Hr1HfrMEVuWRvZ4SfUiTUrTZordYm3eOI/edit?usp=sharing)**
-
-- 
-- 🎥 **Demo Video** — 
+- **Demo Video** —
 
 https://github.com/user-attachments/assets/90dc1e64-2d7b-49ef-81f8-705e2765b23b
 
