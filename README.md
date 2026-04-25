@@ -1,10 +1,6 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/MRKLRW_0)
-[![Work in MakeCode](https://classroom.github.com/assets/work-in-make-code-8824cc13a1a3f34ffcd245c82f0ae96fdae6b7d554b6539aec3a03a70825519c.svg)](https://classroom.github.com/online_ide?assignment_repo_id=23519151&assignment_repo_type=AssignmentRepo)
-
 ![LOGO](images/logo.png)
 
  **Privacy-first identity layer for Aadhaar-based authentication**
->**Team AETHER**
 
 ---
 
@@ -191,26 +187,9 @@ src/routes/AppRouter.jsx  (lazy-loaded + PrivateRoute — available)
 
 https://github.com/user-attachments/assets/90dc1e64-2d7b-49ef-81f8-705e2765b23b
 
-
-
----
-
-## Team
-
-| | Name | Role | Responsibilities |
-|--|------|------|-----------------|
-| <a href="https://github.com/rishita-pixie"><img src="images/rishi.png" width="40" height="40" style="border-radius:50%" alt="Rishita"/></a> | **Rishita Nainwal** | Frontend · Docs | React UI, screen design, documentation |
-| <a href="https://github.com/karan9110"><img src="images/krn.jpeg" width="40" height="40" style="border-radius:50%" alt="Karan"/></a> | **Karan Verma** | UI/UX · Docs | Design system, Tailwind, user flows |
-| <a href="https://github.com/R-Jhere"><img src="images/rj.png" width="40" height="40" style="border-radius:50%" alt="Rahul"/></a> | **Rahul Joshi** | Frontend · Backend | React integration, OAuth 2.0 |
-| <a href="https://github.com/PulkitGiddu"><img src="images/pul.jpeg" width="40" height="40" style="border-radius:50%" alt="Pulkit"/></a> | **Pulkit Giddu** | Backend · Security | Spring Boot, PostgreSQL, Redis, JWT, PKCE |
-
----
-
 <div align="center">
 
 *Built with caffeine, cursed by CORS, secured by PKCE.*
-
-**Team AETHER · AadhaarConnect · Watch The Code 2026**
 
 </div>
 
