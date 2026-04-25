@@ -1,0 +1,42 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: aadhaarconnect
+
+  datasource:
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: false
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+        format_sql: true
+
+  data:
+    redis:
+      host: localhost
+      port: 6379
+      timeout: 6000ms
+
+aadhaarconnect:
+  jwt:
+    issuer: https://aadhaarconnect.demo
+    expiration-seconds: 3600
+  otp:
+    ttl-seconds: 120
+    max-attempts: 5
+    rate-limit-ttl-seconds: 900
+  session:
+    ttl-seconds: 300
+  auth-code:
+    ttl-seconds: 120
+
+logging:
+  level:
+    com.aadhaarconnect: DEBUG
+    org.springframework.security: DEBUG
